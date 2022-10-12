@@ -69,8 +69,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>React Material UI</h1>
-      <Button>mui button</Button>
+      <h1>React Time Line</h1>
       <Stack direction="row" spacing={4} sx={{width: '500px', margin:'30px'}}>
       <Slider
       marks={marks}
