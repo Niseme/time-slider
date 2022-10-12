@@ -1,7 +1,7 @@
 {
   "name": "timeline",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/time-slider",
+  "homepage": "https://niseme.github.io/time-slider",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -20,7 +20,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-
     "start": "react-scripts start",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
